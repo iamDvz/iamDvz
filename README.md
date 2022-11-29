@@ -1,4 +1,4 @@
-![HEADER](https://github.com/iamDvz/iamDvz/blob/main/avatar_banner_wide.gif)
+![HEADER](https://github.com/iamDvz/iamDvz/blob/main/avatar_banner_wide_pingpong.gif)
 
 ___
 
