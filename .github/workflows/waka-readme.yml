@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           GH_TOKEN: "${{ github.token }}"
-          WAKATIME_API_KEY: "${{ secret.WAKATIME_API_KEY }}"
+          WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
           COMMIT_MESSAGE: "wakatime update"
           SHOW_TITLE: true 
           BLOCKS: "░▒▓█"
