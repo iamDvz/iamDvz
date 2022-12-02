@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: "${{ github.token }}"
+          SECTION_NAME: "waka"
           WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
           COMMIT_MESSAGE: "wakatime update"
           SHOW_TITLE: true 
