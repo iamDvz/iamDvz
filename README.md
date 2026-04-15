@@ -1,5 +1,5 @@
 
-![Banner](./avatar_banner.gif)
+![Banner](./assets/banner_wide_pingpong.gif)
 
 # Hi, I'm Denis (Dvz) 👋
 ### Junior+ VFX Unity Artist | Shader Enthusiast | Technical Scripter
@@ -45,4 +45,4 @@ I am a Moscow-based VFX Artist currently freelancing. I specialize in creating o
 ---
 
 ## 📫 Connect with me
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/iamDvz) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iamDvz) ```
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/iamDvz) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iamDvz)
