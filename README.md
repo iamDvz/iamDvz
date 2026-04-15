@@ -22,15 +22,15 @@ I am a Moscow-based VFX Artist currently freelancing. I specialize in creating o
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/iamDvz/iamDvz/main/assets/vfx1.gif" width="250px" alt="VFX Example"/><br />
+      <img src="https://raw.githubusercontent.com/iamDvz/iamDvz/main/assets/Skills_Earth_Seismic_Rise.gif" width="250px" alt="VFX Example"/><br />
       <sub><b>Magic Era: Dragon Roar</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/iamDvz/iamDvz/main/assets/vfx2.gif" width="250px" alt="Shader Example"/><br />
+      <img src="https://raw.githubusercontent.com/iamDvz/iamDvz/main/assets/Skills_Shadow_Umbral_Snare.gif" width="250px" alt="Shader Example"/><br />
       <sub><b>Dynamic Shield Shader</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/iamDvz/iamDvz/main/assets/vfx3.gif" width="250px" alt="System Example"/><br />
+      <img src="https://raw.githubusercontent.com/iamDvz/iamDvz/main/assets/Skills_Wind_Gust.gif" width="250px" alt="System Example"/><br />
       <sub><b>Spell Logic Scripting</b></sub>
     </td>
   </tr>
